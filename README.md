@@ -18,14 +18,14 @@ I'm a university student who loves solving problems and building things from scr
 ### 🛠 42 Madrid Core Projects
 Projects built from scratch in C, focusing on memory management, algorithm optimization, and UNIX systems programming.
 
+- 🎮 [`so_long`](https://github.com/bherranz/so_long) — A 2D tile-based game using MiniLibX
+- 🔀 [`push_swap`](https://github.com/bherranz/push_swap) — Sorting algorithm visualizer under strict constraints  
+- 🍝 [`philosophers`](https://github.com/bherranz/42_Philosophers) — Dining philosophers problem simulation using threads and mutexes
 - 📙 [`libft`](https://github.com/bherranz/libft) — Custom implementation of standard C library functions  
 - 🖨️ [`ft_printf`](https://github.com/bherranz/ft_printf) — A recreation of the `printf` function from scratch  
 - 📄 [`get_next_line`](https://github.com/bherranz/get_next_line) — Read a line from a file descriptor efficiently  
-- 🎮 [`so_long`](https://github.com/bherranz/so_long) — A 2D tile-based game using MiniLibX  
-- 🔀 [`push_swap`](https://github.com/bherranz/push_swap) — Sorting algorithm visualizer under strict constraints  
-- 🔧 [`pipex`](https://github.com/bherranz/pipex) — UNIX pipe and process handling clone  
-- 🐚 [`minishell`](https://github.com/tuusuario/42_minishell) — A functional shell interpreter built from scratch  
-- 🍝 [`philosophers`](https://github.com/bherranz/42_Philosophers) — Dining philosophers problem simulation using threads and mutexes
+- 🔧 [`pipex`](https://github.com/bherranz/pipex) — UNIX pipe and process handling clone
+- 🐚 [`minishell`](https://github.com/bherranz/42_minishell) — A functional shell interpreter built from scratch  
 
 ### 🎮 Game Dev
 - 🏐 [`so_long`](https://github.com/bherranz/so_long) — A 2D tile-based game using MiniLibX  
@@ -54,5 +54,5 @@ Projects built from scratch in C, focusing on memory management, algorithm optim
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bherranz&show_icons=true&theme=default&hide_title=true" alt="GitHub stats" />
 </p>
