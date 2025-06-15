@@ -26,7 +26,7 @@ Projects built from scratch in C, focusing on memory management, algorithm optim
 - 🖨️ [`ft_printf`](https://github.com/bherranz/ft_printf) — A recreation of the `printf` function from scratch  
 - 📄 [`get_next_line`](https://github.com/bherranz/get_next_line) — Read a line from a file descriptor efficiently  
 - 🔧 [`pipex`](https://github.com/bherranz/pipex) — UNIX pipe and process handling clone
-- 🩺 [Stroke Prediction](https://github.com/mattesahl/G09_AI_Project) - Machine Learning team project training models to predict the likelihood of stroke
+- 🩺 [`Stroke Prediction`](https://github.com/mattesahl/G09_AI_Project) - Machine Learning team project training models to predict the likelihood of stroke
  
 ### 🎮 Game Dev
 - 🏐 [`so_long`](https://github.com/bherranz/so_long) — A 2D tile-based game using MiniLibX  
