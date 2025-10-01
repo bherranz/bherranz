@@ -2,7 +2,7 @@
 
 <p align="center">
     <em>Computer Science student at UC3M and 42 Madrid | Passionate about programming and volleyball</em><br>
-    Currently studying abroad in South Korea 🇰🇷
+    Exchange year in South Korea 🇰🇷
 </p>
 
 ---
